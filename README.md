@@ -1,3 +1,4 @@
 # JobApplication
-This is a small project made by using html &amp; css
+This is a small project made by using Html and CSS.
+<br>
 Developer --   Atharva Bhise
